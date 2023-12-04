@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/september-movement/static/css/main.4c7d5ceb.css",
+    "main.js": "/september-movement/static/js/main.5d7a7274.js",
+    "static/media/logo.png": "/september-movement/static/media/logo.510db2e76118072beb03.png",
+    "static/media/Comig-Soon.png": "/september-movement/static/media/Comig-Soon.e7d855518181322e0648.png",
+    "index.html": "/september-movement/index.html",
+    "main.4c7d5ceb.css.map": "/september-movement/static/css/main.4c7d5ceb.css.map",
+    "main.5d7a7274.js.map": "/september-movement/static/js/main.5d7a7274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c7d5ceb.css",
+    "static/js/main.5d7a7274.js"
+  ]
+}
